@@ -313,3 +313,4 @@ Received Import Request.
 Start importing Assets/Prefab/PrefabDb.asset using Guid(9394e6bbb72202f42b90803331c56e5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fde55b0166267325312288a424b9a0d') in 0.020840 seconds 
   Import took 0.027003 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
